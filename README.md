@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 <h3>Formação academica</h3>
 <li>Ensino fundamental Colégio Estadual Juscelino K Oliveira - completo</li>
 <li>Ensino medio Colegio SESI - completo</li>
-<li>Ensino superior: Eng da computação cursando em UNIFATEC-PR - ainda cursando</li>
+<li>Ensino superior: Eng da computação cursando em UNIFATEC-PR - 9/10</li>
 
 <h3>Cursos</h3>
 <li>Ingles: Basico pela UTFPR</li>
