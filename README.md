@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 <img src="https://orig00.deviantart.net/51a3/f/2016/306/0/9/hackerman_by_shiiftyshift-dan31sc.png" height = 500 width = 700>
 
-<h1>Meu curriculo</h1>
+<h2>Meu curriculo</h2>
 <h2>Nome: Emmanuel teodoro ribeiro</h2>
 <h2>Idade: 25</h2>
 
