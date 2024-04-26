@@ -27,4 +27,4 @@ You can click the Preview link to take a look at your changes.
 <li>Ingles: Basico pela UTFPR</li>
 <li>espanhol: Intermediario</li>
 <li>CTF - pentest basico</li>
-
+<li>IPED - basico</li>
