@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @emanuel-teodoro
-- 👀 I’m interested in ethical hacking
-- 🌱 I’m currently learning engenharia da computação
-- 💞️ I’m looking to collaborate on Projetos de ethical hacking
-- 📫 How to reach ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Ola, eu sou @emanuel-teodoro
+- 👀 Eu me interesso por ethical hacking
+- 🌱 Eu atualmente estou estudando engenharia da computação
+- 💞️ Procuro colaborar em Projetos de ethical hacking
+- 📫 Como me contatar: emanuelteodororibeiro@gmail.com
 
 <!---
 emanuel-teodoro/emanuel-teodoro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
