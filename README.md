@@ -25,4 +25,9 @@ You can click the Preview link to take a look at your changes.
 <li>Ingles: Basico pela UTFPR</li>
 <li>espanhol: Intermediario</li>
 <li>CTF - pentest basico</li>
-<li>IPED - basico</li>
+<li>Treinamento em IPED</li>
+
+<h3>Experiencia Proficional</h3>
+<li>Pooltécnica Química Ltda - Aprendiz de Assistente Administrativo</li>
+<li>Incoparts Indústria e Comércio de Peças LTDA - Operador de Manutenção e Eletromecânica</li>
+<li> UNIFATEC-PR - Estagio suporte técnico em informática</li>
